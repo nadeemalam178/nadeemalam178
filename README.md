@@ -4,20 +4,25 @@ Full-Stack Mobile & Software Developer passionate about building high-performanc
 
 ---
 
-### 🛒 Featured Project: [Shalimar Store](https://github.com/nadeemalam178/shalimar-store)
+### 🛒 Flagship Project: [Shalimar Store (v2.0.0)](https://github.com/nadeemalam178/shalimar-store)
 
-> **Since 1988 • Trust & Quality General Store Mobile App**
+> **Since 1988 — Trust & Quality General Store Mobile App**  
+> *Alamganj, Ashok Rajpath, Patna - 800007, Bihar*
 
-**[Shalimar Store](https://github.com/nadeemalam178/shalimar-store)** is a production-grade, offline-first general store and grocery mobile application. It brings traditional neighborhood shopping into the digital era with **zero gateway fees**, **direct WhatsApp ordering**, zero-fee **UPI payments**, and an **ID & Password protected owner management panel**.
+**[Shalimar Store](https://github.com/nadeemalam178/shalimar-store)** is a production-grade, dual-mode general store & grocery mobile application built with Flutter & Dart. It brings traditional neighborhood shopping into the digital era with **zero gateway fees**, **direct WhatsApp ordering**, **zero-fee UPI payments**, and an **ID & Password protected owner management panel**.
 
-- 🛍️ **Dual-Mode Architecture:** Customer catalogue browsing + Owner/Admin inventory manager in a single unified app.
-- 🎨 **Modern Bottom Deck (Dock):** Central elevated Home store button, dedicated Wishlist/Favorites tab, and animated slide-up Cart Deck.
-- 📲 **Direct WhatsApp & UPI Ordering:** One-tap order dispatch straight to the store owner on WhatsApp with formatted bill, and 1-tap Google Pay / PhonePe / Paytm payments without gateway charges.
-- 🔐 **Frosted Glass Admin Portal:** BackdropFilter blur security demanding Admin ID & Password for managing stock, adding products, and 1-tap stock availability toggles.
-- 📦 **Pre-Loaded Standard Kirana Catalogue:** Bundled with 50+ essential Indian grocery items across 9 departments.
-- ⚡ **Split-per-ABI Optimization:** Lightweight APKs (~15 MB) tailored for `arm64-v8a`, `armeabi-v7a`, and `x86_64`.
+- 🔄 **Dual-Mode Architecture:** Customer catalog browsing + Owner/Admin inventory manager in a single unified app.
+- 🛍️ **Persistent Shopping Cart:** Items stay safely saved in local storage until ordered on WhatsApp or cleared.
+- 🎨 **Animated Splash & Rounded Design:** Smooth fade-in/fade-out brand splash screen and consistent rounded design language.
+- 🔍 **Pinned / Freezed Search Bar:** Always accessible at the top while scrolling 1,000+ items.
+- ⌨️ **Smart Dock Behavior:** Dock seamlessly hides while typing in search or forms to eliminate clutter.
+- 📷 **Direct Camera & Gallery Photo Upload:** Live photo capture and upload for inventory items.
+- 📊 **Out-of-Stock Dashboard:** Category-wise breakdown with instant 1-tap Restock.
+- 🏷️ **Dynamic Categories:** Admin can add new departments on the fly, instantly reflected for all users.
+- 🚀 **Zero-Bloat OTA Update Banner:** Automatic in-app update banner whenever a new release is published on GitHub.
+- 📦 **Split-per-ABI APKs:** Lightweight builds (~18–22 MB) signed with APK Signature Scheme v1–v4.
 
-📦 **[Download Latest APK Release](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
+📦 **[Download v2.0.0 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
 
 ---
 
