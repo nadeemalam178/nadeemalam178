@@ -4,25 +4,29 @@ Full-Stack Mobile & Software Developer passionate about building high-performanc
 
 ---
 
-### 🛒 Flagship Project: [Shalimar Store (v2.0.0)](https://github.com/nadeemalam178/shalimar-store)
+### 🛒 Flagship Project: [Shalimar Store (v3.0.0)](https://github.com/nadeemalam178/shalimar-store)
 
 > **Since 1988 — Trust & Quality General Store Mobile App**  
 > *Alamganj, Ashok Rajpath, Patna - 800007, Bihar*
 
 **[Shalimar Store](https://github.com/nadeemalam178/shalimar-store)** is a production-grade, dual-mode general store & grocery mobile application built with Flutter & Dart. It brings traditional neighborhood shopping into the digital era with **zero gateway fees**, **direct WhatsApp ordering**, **zero-fee UPI payments**, and an **ID & Password protected owner management panel**.
 
-- 🔄 **Dual-Mode Architecture:** Customer catalog browsing + Owner/Admin inventory manager in a single unified app.
+- ⚡ **Dual-Mode Architecture:** Customer catalog browsing + Owner/Admin inventory manager in a single unified app.
+- 🔍 **Interactive Product Detail View:** Tap any card for full details, smooth hero animation, and multi-image swipeable carousel.
+- 💡 **Smart Recommendations:** Dual horizontal carousels for *"More Like This"* (category alternatives) and *"More For You"* (staples).
+- 🔤 **Plus Jakarta Sans Typography:** High-clarity geometric typography tailored for modern retail apps.
+- 🌓 **Dynamic AMOLED System Theme:** Auto light/dark theme seamlessly following Android system mode with zero switches.
+- ⚡ **Lightweight Performance:** Constrained image decoding caches (~85% RAM savings) and optimized shaders for smooth 60 FPS on budget phones.
+- ⌨️ **Gliding Keyboard Ergonomics:** Admin login modal dynamically floats above the on-screen keyboard.
 - 🛍️ **Persistent Shopping Cart:** Items stay safely saved in local storage until ordered on WhatsApp or cleared.
-- 🎨 **Animated Splash & Rounded Design:** Smooth fade-in/fade-out brand splash screen and consistent rounded design language.
 - 🔍 **Pinned / Freezed Search Bar:** Always accessible at the top while scrolling 1,000+ items.
-- ⌨️ **Smart Dock Behavior:** Dock seamlessly hides while typing in search or forms to eliminate clutter.
 - 📷 **Direct Camera & Gallery Photo Upload:** Live photo capture and upload for inventory items.
 - 📊 **Out-of-Stock Dashboard:** Category-wise breakdown with instant 1-tap Restock.
 - 🏷️ **Dynamic Categories:** Admin can add new departments on the fly, instantly reflected for all users.
 - 🚀 **Zero-Bloat OTA Update Banner:** Automatic in-app update banner whenever a new release is published on GitHub.
-- 📦 **Split-per-ABI APKs:** Lightweight builds (~18–22 MB) signed with APK Signature Scheme v1–v4.
+- 📦 **Split-per-ABI APKs:** Lightweight builds (~20–24 MB) signed with APK Signature Scheme v2–v3.
 
-📦 **[Download v2.0.0 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
+📦 **[Download v3.0.0 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
 
 ---
 
