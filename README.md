@@ -4,7 +4,7 @@ Full-Stack Mobile & Software Developer passionate about building high-performanc
 
 ---
 
-### 🏪 Flagship Project: [Shalimar Store (v3.2.5)](https://github.com/nadeemalam178/shalimar-store)
+### 🏪 Flagship Project: [Shalimar Store (v3.3.0)](https://github.com/nadeemalam178/shalimar-store)
 
 > **Since 1988 — Trust & Quality General Store Mobile App**  
 > *Alamganj, Ashok Rajpath, Patna - 800007, Bihar*
@@ -13,7 +13,7 @@ Full-Stack Mobile & Software Developer passionate about building high-performanc
 
 - ⚡ **Dual-Mode Architecture:** Customer catalog browsing + Owner/Admin inventory manager in a single unified app.
 - 🔒 **Compulsory Customer Authentication:** Zero guest access. Customers register with Full Name, Email & Password, or 1-tap Continue with Google.
-- 🏢 **Store Owner Direct Access (v3.2.5):** Dedicated Store Owner Login supporting Admin ID (Shalimar@1988) and password (Shal1mar@1988#).
+- 🏢 **Store Owner Direct Access (v3.3.0):** Dedicated Store Owner Login supporting Admin ID (Shalimar@1988) and password (Shal1mar@1988#).
 - 📖 **On-Demand App Tour:** Re-experience the 4-slide introductory onboarding tour anytime from the login screen.
 - 📲 **In-App Direct OTA Updates:** Pure dedicated `arm64-v8a` single-asset distribution preventing installation errors, first-time center changelog popup, and persistent top update banner.
 - ☁️ **Google Firebase Cloud Sync:** Full integration with Google Firebase Firestore (`shalimar-store`) on the Free Spark Tier. Products, stock levels, and prices sync in real time across owner and customer phones.
@@ -31,7 +31,7 @@ Full-Stack Mobile & Software Developer passionate about building high-performanc
 - 🛒 **Persistent Shopping Cart:** Items stay safely saved in local storage until ordered on WhatsApp or cleared.
 - 📦 **Split-per-ABI APKs:** Lightweight builds (~27 MB) signed with APK Signature Scheme v1–v4.
 
-📦 **[Download v3.2.5 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
+📦 **[Download v3.3.0 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | ⭐ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
 
 ---
 
