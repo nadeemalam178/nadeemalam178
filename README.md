@@ -1,49 +1,75 @@
-# Hi there, I'm Nadeem Alam ðŸ‘‹
+# Hi there, I'm Nadeem Alam 👋
 
-Full-Stack Mobile & Software Developer passionate about building high-performance, offline-first mobile and desktop applications with modern Flutter (Dart) and Kotlin (Jetpack Compose).
-
----
-
-### ðŸ¬ Flagship Project: [Shalimar Store (v4.2.1)](https://github.com/nadeemalam178/shalimar-store)
-
-> **Since 1988 â€” Trust & Quality General Store Mobile App**  
-> *Alamganj, Ashok Rajpath, Patna - 800007, Bihar*
-
-**[Shalimar Store](https://github.com/nadeemalam178/shalimar-store)** is a production-grade, dual-mode general store & grocery mobile application built with Flutter & Dart. It brings traditional neighborhood shopping into the digital era with **zero gateway fees**, **compulsory customer registration & active Google sign-in**, **direct owner login (Shalimar@1988)**, **Google Gemini 3.6 Flash AI Hub**, **direct WhatsApp ordering**, **zero-fee UPI payments**, **Google Firebase real-time cloud catalog sync**, **in-app direct OTA updates**, and an **ID & Password protected owner management panel**.
-
-- âš¡ **Dual-Mode Architecture:** Customer catalog browsing + Owner/Admin inventory manager in a single unified app.
-- ðŸ§  **Google Gemini 3.6 Flash AI Hub (v4.2.1):**
-  - **ðŸ“¸ Vision "Photo-to-Product":** 1-tap snap of any grocery item automatically fills name, category, pack unit, MRP, price, and description with frontier reasoning.
-  - **ðŸ“¢ Automated Customer Push Notifications:** Gemini crafts engaging Hinglish/English deals and festive announcements synced to Firestore and pushed to registered devices.
-  - **ðŸ§¾ Parchi & WhatsApp List Decoder:** Parses handwritten chits and unstructured WhatsApp grocery lists into itemized bills.
-  - **ðŸ›¡ï¸ Multi-Tier Cascade:** Resilient fallback (gemini-3.6-flash -> gemini-2.5-flash -> gemini-2.0-flash -> gemini-1.5-flash) guaranteeing zero downtime.
-- ðŸš€ **Automatic Startup OTA Updates:** App instantly checks GitHub Releases on launch (on both Login and Main screens) and prompts one-tap download for device-matched rm64-v8a APK.
-- ðŸ“² **Instant App Sharing with QR Code:** High-contrast offline QR code in Admin Drawer & Customer Profile targeting direct APK downloads.
-- ðŸ›ï¸ **Customer Product Cards & Smart Kirana Descriptions:** 60% image flex ratio for high visual appeal + smart Hindi/English kirana descriptions.
-- ðŸ” **Compulsory Customer Authentication:** Zero guest access. Customers register with Full Name, Email & Password, or 1-tap Continue with Google.
-- ðŸ¢ **Store Owner Direct Access:** Dedicated Store Owner Login supporting Admin ID (Shalimar@1988) and password (Shal1mar@1988#).
-- â˜ï¸ **Google Firebase Cloud Sync:** Full integration with Google Firebase Firestore (shalimar-store) on the Free Spark Tier. Products, stock levels, and prices sync in real time across owner and customer phones.
-- ðŸ”” **Dual-Tier Push & Local Notification Engine:** Customer restock subscriptions (estock_<productId>), store broadcast topic announcements (store_broadcast), and native heads-up alerts.
-- ðŸŒ™ **Complete AMOLED Dark Theme Overhaul:** All screens redesigned with adaptive semantic tokens for true #121212 / #1E1E1E AMOLED aesthetics.
-- ðŸ” **Full-Screen Pinch-to-Zoom Image Viewer Everywhere:** Multi-image gallery in product details, cart, storefront photos, and admin dashboards with 1x-5x pinch zoom.
-- ðŸ›’ **Persistent Shopping Cart:** Items stay safely saved in local storage until ordered on WhatsApp or cleared.
-- ðŸ“¦ **Split-per-ABI APKs:** Lightweight builds (~27 MB) signed with APK Signature Scheme v1â€“v4.
-
-ðŸ“¦ **[Download v4.2.1 APK](https://github.com/nadeemalam178/shalimar-store/releases/latest)** | â­ **[Star on GitHub](https://github.com/nadeemalam178/shalimar-store)**
+### Data Analyst, Full-Stack Developer & Mobile Application Engineer
+📍 **Patna, Bihar, India** | 🎓 **MCA Candidate (SMU) • B.Ed • B.Sc. Mathematics (Hons)**  
+💼 **Data Analyst at JSPT Consultants Pvt. Ltd.**  
+🌐 **Portfolio:** [nadeem-portfolio.vercel.app](https://nadeem-portfolio.vercel.app) | ✉️ **Email:** [alamnadeem178@gmail.com](mailto:alamnadeem178@gmail.com) | 🔗 **LinkedIn:** [nadeem-alam-2853b9232](https://www.linkedin.com/in/nadeem-alam-2853b9232)
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Skills
-
-- **Mobile & Cross-Platform:** Flutter, Dart, Kotlin, Android (Jetpack Compose, Material 3, Room, MVVM, Coroutines, Flow)
-- **AI & Vision:** Google Gemini 3.6 Flash API (gemini-3.6-flash), Multimodal Vision & OCR
-- **State Management & Storage:** Provider, Riverpod, Hive, SharedPreferences, SQLite, Supabase Storage
-- **Architecture:** Unidirectional Data Flow (UDF), Layered Clean Architecture, Offline-First Design
-- **Tooling & DevOps:** Git, GitHub Actions, Gradle, Android Studio, VS Code
+### 🚀 About Me
+- 🔭 **Building:** High-performance cross-platform mobile apps (Flutter / Dart), robust full-stack web platforms (Next.js / TypeScript), and automated data pipelines (Python / SQL).
+- 📊 **Specialization:** Operational MIS reporting, multi-sheet automation with Google Apps Script & Python, relational database architecture, and offline-first mobile systems.
+- 💡 **AI & Vision:** Integrating Google Gemini Vision & Multimodal reasoning into practical consumer and enterprise mobile applications.
+- 🎯 **Actively Open for:** Software Engineering, Full-Stack, Mobile (Flutter), and Data Analytics roles.
 
 ---
 
-### ðŸ“¬ Connect With Me
+### 🛠️ Core Tech Stack & Toolkit
 
-- **GitHub:** [@nadeemalam178](https://github.com/nadeemalam178)
-- **Flagship Project:** [Shalimar Store (Flutter)](https://github.com/nadeemalam178/shalimar-store)
+| Category | Technologies & Frameworks |
+|---|---|
+| **Mobile & Cross-Platform** | Flutter, Dart, Kotlin (Jetpack Compose), Android Architecture Components, Riverpod, Provider |
+| **Frontend & Web** | Next.js (App Router), React 19, TypeScript, JavaScript (ESNext), Tailwind CSS v4, HTML5/CSS3 |
+| **Backend & APIs** | Node.js, Python (FastAPI, Flask), RESTful APIs, Serverless Functions |
+| **Data Analytics & Database** | SQL, PostgreSQL, MySQL, SQLite, Looker Studio, Google Apps Script, Pandas, Excel / Sheets |
+| **Cloud & DevOps** | Google Firebase (Firestore, Auth, Storage), Vercel, Netlify, Git, GitHub Actions CI/CD |
+
+---
+
+### 🌟 Featured Flagship Projects
+
+#### 1. 🛍️ [Shalimar Store (v4.2.1)](https://github.com/nadeemalam178/shalimar-store)
+> **Since 1988 — Trust & Quality General Store Mobile App** *(Patna, Bihar)*  
+- Production-grade dual-mode retail and inventory mobile application built with **Flutter & Dart**.
+- **Gemini 3.6 Flash AI Hub:** 1-tap snap photo-to-product auto-tagging, handwritten chit parser, and automated deals generator.
+- Real-time catalog & stock sync powered by **Google Firebase Firestore** with offline-first caching.
+- Direct WhatsApp ordering, zero-fee UPI checkout, role-based store management, and automatic in-app startup OTA updates.
+
+#### 2. 🏥 [Radiant Hospitals HMS](https://github.com/nadeemalam178/radiant-hospitals-hms)
+> **Production-Grade Hospital Management System**  
+- Enterprise healthcare system with clinical triage OPD, IPD bed occupancy matrix, pharmacy dispensing, laboratory reports, and unified billing.
+- Engineered with **Next.js**, **React**, **TypeScript**, and relational SQL architecture.
+
+#### 3. 🎯 [Sarkari Job Alert App (v2.4.2)](https://github.com/nadeemalam178/sarkari-job-alert-app)
+> **Official Government Recruitment Intelligence & Tracking App**  
+- Native **Flutter** mobile client with custom glassmorphism design system supporting dynamic AMOLED dark theme.
+- Automated multi-portal scraper (RRB, SSC, UPSC, State PSC) and qualification matching engine.
+- Automated background sync via GitHub Actions cron pipelines with push notifications.
+
+#### 4. 🌐 [Personal 3D Spatial Portfolio](https://github.com/nadeemalam178/nadeem-portfolio)
+> **Interactive Data Workbench & Portfolio**  
+- Engineered with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and **Framer Motion**.
+- Features in-browser SQL query runner, synthetic dataset explorations, and ATS-optimized printable CV generator.
+
+#### 5. 🔍 [SangathanSearch](https://github.com/nadeemalam178/SangathanSearch)
+> **High-Performance Organizational Contact Directory**  
+- Instant client-side search engine indexing 50,000+ organizational records with sub-10ms response times.
+- Chunked compressed JSON data architecture with district-level drilldowns.
+
+---
+
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeemalam178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Nadeem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemalam178&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/nadeem-alam-2853b9232](https://www.linkedin.com/in/nadeem-alam-2853b9232)
+- 🌐 **Portfolio Website:** [nadeem-portfolio.vercel.app](https://nadeem-portfolio.vercel.app)
+- 📧 **Direct Email:** [alamnadeem178@gmail.com](mailto:alamnadeem178@gmail.com)
+- 🐙 **GitHub:** [@nadeemalam178](https://github.com/nadeemalam178)
